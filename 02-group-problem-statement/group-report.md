@@ -6,10 +6,10 @@
 
 | STT | Họ và tên | Mã học viên | Vai trò trong nhóm |
 |-----|-----------|-------------|--------------------------------------------------|
-| 1   | [Tên thật - bạn] | [Mã học viên] | Facilitator, workflow, research |
-| 2   | Nguyễn Văn Anh | [Mã học viên] | Problem Card pitch, validation |
-| 3   | Trần Thị Bảo | [Mã học viên] | Research giải pháp, writer PS |
-| 4   | Lê Minh Cường | [Mã học viên] | Rule/Workflow/Agent analysis, decision |
+| 1   | Nguyễn Thị Thuý Hiền | 2A202602896 | Facilitator, workflow, research |
+| 2   | Vi  | 2A202602512 | Problem Card pitch, validation |
+| 3   | Trần Thị Bảo | 2A202601367 | Research giải pháp, writer PS |
+| 4   | Lê Minh Cường | 2A20260356 | Rule/Workflow/Agent analysis, decision |
 
 **Candidate problem nhóm chọn (1 câu):**
 
